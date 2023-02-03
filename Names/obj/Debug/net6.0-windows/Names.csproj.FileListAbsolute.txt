@@ -1,0 +1,17 @@
+C:\Users\GUR3HC\Desktop\Names\Names\bin\Debug\net6.0-windows\Names.exe
+C:\Users\GUR3HC\Desktop\Names\Names\bin\Debug\net6.0-windows\Names.deps.json
+C:\Users\GUR3HC\Desktop\Names\Names\bin\Debug\net6.0-windows\Names.runtimeconfig.json
+C:\Users\GUR3HC\Desktop\Names\Names\bin\Debug\net6.0-windows\Names.dll
+C:\Users\GUR3HC\Desktop\Names\Names\bin\Debug\net6.0-windows\Names.pdb
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\Names.csproj.AssemblyReference.cache
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\Names.Names.resources
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\Names.csproj.GenerateResource.cache
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\Names.AssemblyInfoInputs.cache
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\Names.AssemblyInfo.cs
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\Names.csproj.CoreCompileInputs.cache
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\Names.dll
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\refint\Names.dll
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\Names.pdb
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\Names.genruntimeconfig.cache
+C:\Users\GUR3HC\Desktop\Names\Names\obj\Debug\net6.0-windows\ref\Names.dll
